@@ -5,7 +5,7 @@ Android GST E-Billing Project  is GST billing solution. The system enables you t
 ##### Click on image
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hXZXjk44kBM
 " target="_blank"><img src="http://img.youtube.com/vi/hXZXjk44kBM/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="320" height="240" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="330" height="236" border="10" /></a>
 
 #### _Features :-_
 * _Easy  Layout._  
