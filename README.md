@@ -19,7 +19,8 @@ alt="IMAGE ALT TEXT HERE" width="320" height="240" border="10" /></a>
 #### _Technology, Tools and Plugin Used :-_
 * _Android Studio_  
 * _java_  
-* _Windows 10_
+* _Windows 10_  
 
-
+If you want to try this app then apk is given above in source code  
+by name [app-debug.apk]
 
