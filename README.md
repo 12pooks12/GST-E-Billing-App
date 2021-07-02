@@ -27,19 +27,13 @@ You can download apk then install and enjoy this app..🙂
 
 ### _Some Screenshots for Your Better & Quick Visualization_ ⬇
 
-+ ### _Bonus addition -_
-![alt text](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_1.png)
 
-![alt text](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_2.png)
-
-![alt text](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_3.png)
-
-![alt text](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_4.png)
-
-![alt text](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_5.png)
-
-![alt text](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_6.png)
-
-![alt text](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_7.png)
-
-![alt text](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_8.png)
+<img align="left" src="https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_1.png" width="400" height="795" />
+<img src="https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_2.png" width="400" height="795" />
+<img align="left" src="https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_3.png" width="400" height="795" />
+<img src="https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_4.png" width="400" height="795" />
+<img align="left" src="https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_5.png" width="400" height="795" />
+<img src="https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_6.png" width="400" height="795" />
+<img align="left" src="https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_7.png" width="400" height="795" />
+</br>
+<img align="center" src="https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_8.png" width="795" height="400" />
