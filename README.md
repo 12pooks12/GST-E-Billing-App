@@ -25,4 +25,21 @@ If you want to try this app then apk is given above in source code
 by name [**`app-debug.apk`**]  
 You can download apk then install and enjoy this app..🙂
 
-### _Some Screenshots for Your Better Visualization_ ⬇
+### _Some Screenshots for Your Better & Quick Visualization_ ⬇
+
++ ### _Bonus addition -_
+![alt text](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_1.png)
+
+![alt text](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_2.png)
+
+![alt text](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_3.png)
+
+![alt text](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_4.png)
+
+![alt text](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_5.png)
+
+![alt text](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_6.png)
+
+![alt text](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_7.png)
+
+![alt text](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_8.png)
