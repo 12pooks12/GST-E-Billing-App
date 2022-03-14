@@ -32,7 +32,7 @@ You can [Download APK](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/
 
  Intro Slider                               | Home                                        
 :------------------------------------------:|:-------------------------------------------:
- <img src="Screenshots/screen_1.png" width="300"> | <img src="Screenshots/screen_2.png" width="300">
+ <img src="Screenshots/screen_1.png" width="350"> | <img src="Screenshots/screen_2.png" width="350">
  
  Profile Settings 			                    | Friend Request UI 
 :-----------------------------------------------:|:----------------------------------------:
