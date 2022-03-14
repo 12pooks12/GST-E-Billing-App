@@ -40,3 +40,19 @@ You can [Download APK](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/
 <img align="left" src="https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_7.png" width="360" height="785" />
 <img align="center" src="https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_8.png" width="795" height="400" />
 
+
+ Intro Slider                               | Home                                        
+:------------------------------------------:|:-------------------------------------------:
+ <img src="Screenshots/screen_1.png" width="500"> | <img src="Screenshots/screen_2.png" width="500">
+ 
+ Profile Settings 			                    | Friend Request UI 
+:-----------------------------------------------:|:----------------------------------------:
+ <img src="Screenshots/screen_3.png" width="500">|<img src="Screenshots/screen_4.png" width="500">
+
+ Search a person                           | Friend List                             
+:-----------------------------------------:|:--------------------------------------------:
+<img src="Screenshots/screen_5.png" width="500">| <img src="Screenshots/screen_6.png" width="500">
+
+ When someone send request                       | LIVE CHATTING in uMe
+:-----------------------------------------------:|:-------------------------------------:
+ <img src="Screenshots/screen_7.png" width="500">|<img src="Screenshots/screen_8.png" width="500">
