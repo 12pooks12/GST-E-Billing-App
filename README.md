@@ -28,7 +28,7 @@ You can download apk then install and enjoy this app..🙂
 #### GIF Tutorial of this app :
 ![GST-E Billing Application](https://github.com/Nitinkumar3399/My_GIFs/blob/master/GST%20E%20-%20Billing%20Android%20App%20giphy.gif)
 
-### _Some Screenshots for Your Better & Quick Visualization_ ⬇
+### _Some Screenshots of all activities for Your Better & Quick Visualization_ ⬇
 
 
 <img align="left" src="https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_1.png" width="360" height="785" />
