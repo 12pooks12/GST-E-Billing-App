@@ -36,12 +36,12 @@ You can [Download APK](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/
  
  Profile Settings 			                    | Friend Request UI 
 :-----------------------------------------------:|:----------------------------------------:
- <img src="Screenshots/screen_3.png" width="200">|<img src="Screenshots/screen_4.png" width="200">
+ <img src="Screenshots/screen_3.png" width="315">|<img src="Screenshots/screen_4.png" width="315">
 
  Search a person                           | Friend List                             
 :-----------------------------------------:|:--------------------------------------------:
-<img src="Screenshots/screen_5.png" width="200">| <img src="Screenshots/screen_6.png" width="200">
+<img src="Screenshots/screen_5.png" width="315">| <img src="Screenshots/screen_6.png" width="315">
 
  When someone send request                       | LIVE CHATTING in uMe
 :-----------------------------------------------:|:-------------------------------------:
- <img src="Screenshots/screen_7.png" width="200">|<img src="Screenshots/screen_8.png" width="200">
+ <img src="Screenshots/screen_7.png" width="315">|<img src="Screenshots/screen_8.png" width="315">
