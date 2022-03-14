@@ -30,20 +30,9 @@ You can [Download APK](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/
 
 ### _Some Screenshots of all activities for Your Better & Quick Visualization_ ⬇
 
-
-<img align="left" src="https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_1.png" width="360" height="785" />
-<img src="https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_2.png" width="360" height="785" />
-<img align="left" src="https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_3.png" width="360" height="785" />
-<img src="https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_4.png" width="360" height="785" />
-<img align="left" src="https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_5.png" width="360" height="785" />
-<img src="https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_6.png" width="360" height="785" />
-<img align="left" src="https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_7.png" width="360" height="785" />
-<img align="center" src="https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/master/Screenshots/screen_8.png" width="795" height="400" />
-
-
  Intro Slider                               | Home                                        
 :------------------------------------------:|:-------------------------------------------:
- <img src="Screenshots/screen_1.png" width="200"> | <img src="Screenshots/screen_2.png" width="200">
+ <img src="Screenshots/screen_1.png" width="300"> | <img src="Screenshots/screen_2.png" width="300">
  
  Profile Settings 			                    | Friend Request UI 
 :-----------------------------------------------:|:----------------------------------------:
