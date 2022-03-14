@@ -44,4 +44,9 @@ You can [Download APK](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/
 
  When someone send request                       | LIVE CHATTING in uMe
 :-----------------------------------------------:|:-------------------------------------:
- <img src="Screenshots/screen_7.png" width="315">|<img src="Screenshots/screen_8.png" width="315">
+ <img src="Screenshots/screen_7.png" width="315">|<img src="Screenshots/screen_6.png" width="315">
+ 
+| You can Easily Generate the PDFs of Bills of all Customers                                |
+| :----------------------------------------------------------------------------------------:|
+| <img src="Screenshots/screen_8.png" width="720">                                          |  
+ 
