@@ -30,23 +30,23 @@ You can [Download APK](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/
 
 ### _Some Screenshots of all activities for Your Better & Quick Visualization_ ⬇
 
- Intro Slider                               | Home                                        
+ Setup your business for GST E-Billing                               | Add your new customer details                                        
 :------------------------------------------:|:-------------------------------------------:
  <img src="Screenshots/screen_1.png" width="315"> | <img src="Screenshots/screen_2.png" width="315">
  
- Profile Settings 			                    | Friend Request UI 
+ Enter items for your particular customer 			                    | List of items purchased by your customer
 :-----------------------------------------------:|:----------------------------------------:
  <img src="Screenshots/screen_3.png" width="315">|<img src="Screenshots/screen_4.png" width="315">
 
- Search a person                           | Friend List                             
+ Add, Delete, Save pdfs, Mark as paid                           | Paid bills of customers                             
 :-----------------------------------------:|:--------------------------------------------:
 <img src="Screenshots/screen_5.png" width="315">| <img src="Screenshots/screen_6.png" width="315">
 
- When someone send request                       | LIVE CHATTING in uMe
+ Pending bills of customers                       | Paid bills of customers
 :-----------------------------------------------:|:-------------------------------------:
  <img src="Screenshots/screen_7.png" width="315">|<img src="Screenshots/screen_6.png" width="315">
  
-| You can Easily Generate the PDFs of Bills of all Customers                                |
+| You can easily generate the PDFs of bills of all customers                                |
 | :----------------------------------------------------------------------------------------:|
 | <img src="Screenshots/screen_8.png" width="720">                                          |  
  
