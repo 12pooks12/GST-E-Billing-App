@@ -43,16 +43,16 @@ You can [Download APK](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/
 
  Intro Slider                               | Home                                        
 :------------------------------------------:|:-------------------------------------------:
- <img src="Screenshots/screen_1.png" width="500"> | <img src="Screenshots/screen_2.png" width="500">
+ <img src="Screenshots/screen_1.png" width="200"> | <img src="Screenshots/screen_2.png" width="200">
  
  Profile Settings 			                    | Friend Request UI 
 :-----------------------------------------------:|:----------------------------------------:
- <img src="Screenshots/screen_3.png" width="500">|<img src="Screenshots/screen_4.png" width="500">
+ <img src="Screenshots/screen_3.png" width="200">|<img src="Screenshots/screen_4.png" width="200">
 
  Search a person                           | Friend List                             
 :-----------------------------------------:|:--------------------------------------------:
-<img src="Screenshots/screen_5.png" width="500">| <img src="Screenshots/screen_6.png" width="500">
+<img src="Screenshots/screen_5.png" width="200">| <img src="Screenshots/screen_6.png" width="200">
 
  When someone send request                       | LIVE CHATTING in uMe
 :-----------------------------------------------:|:-------------------------------------:
- <img src="Screenshots/screen_7.png" width="500">|<img src="Screenshots/screen_8.png" width="500">
+ <img src="Screenshots/screen_7.png" width="200">|<img src="Screenshots/screen_8.png" width="200">
