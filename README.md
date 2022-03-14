@@ -48,5 +48,5 @@ You can [Download APK](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/
  
 | You can easily generate the PDFs of bills of all customers                                |
 | :----------------------------------------------------------------------------------------:|
-| <img src="Screenshots/screen_8.png" width="720">                                          |  
+| <img src="Screenshots/screen_8.png" width="750">                                          |  
  
