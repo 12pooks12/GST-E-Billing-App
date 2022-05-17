@@ -50,3 +50,4 @@ You can [Download APK](https://github.com/Nitinkumar3399/GST-E-Billing-App/blob/
 | :----------------------------------------------------------------------------------------:|
 | <img src="Screenshots/screen_8.png" width="770">                                          |  
  
+> _**GST E-Billing App by Nitin Kumar**_
