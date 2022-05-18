@@ -20,6 +20,7 @@ alt="IMAGE ALT TEXT HERE" width="330" height="236" border="10" /></a>
 #### _Technology, Tools and Plugin Used :-_
 * _Android Studio_  
 * _java_  
+* _SQlite Database_  
 * _Windows 10_  
 
 If you want to try this app then apk is given above in source code
